@@ -1,0 +1,82 @@
+[
+  {
+    "name": "African Elephant",
+    "species": "Africa",
+    "habitat": "Africa",
+    "weightLbs": 12000,
+    "length": "19 - 24ft",
+    "diet": "herbivore",
+    "lifespan": "70 years",
+    "status": "vulnerable"
+  },
+  {
+    "name": "Bengal Tiger",
+    "species": "Panthera tigris",
+    "habitat": "India, Bangladesh, Nepal, and Bhutan",
+    "weightLbs": 500,
+    "length": "8 - 10 ft",
+    "diet": "carnivore",
+    "lifespan": "70 years",
+    "status": "endangered"
+  },
+  {
+    "name": "Giraffe",
+    "species": "Giraffa camelopardalis",
+    "habitat": "Africa",
+    "weightLbs": 2700,
+    "length": "14 - 18 ft",
+    "diet": "herbivore",
+    "lifespan": "20 - 25 years",
+    "status": "vulnerable"
+  },
+  {
+    "name": "Polar Bear",
+    "species": "Ursus maritimus",
+    "habitat": "Arctic",
+    "weightLbs": 1200,
+    "length": "7 - 9 ft",
+    "diet": "carnivore",
+    "lifespan": "25 - 30 years",
+    "status": "vulnerable"
+  },
+  {
+    "name": "Blue Whale",
+    "species": "Balaenopteramusculus",
+    "habitat": "Oceans",
+    "weightLbs": 300000,
+    "length": "70 - 100 ft",
+    "diet": "carnivore",
+    "lifespan": "70 - 90 years",
+    "status": "endangered"
+  },
+  {
+    "name": "Gorilla",
+    "species": "Gorilla beringei",
+    "habitat": "Africa",
+    "weightLbs": 400,
+    "length": "4 - 5 ft",
+    "diet": "herbivore",
+    "lifespan": "35 - 40 years",
+    "status": "endangered"
+  },
+  {
+    "name": "Giant Panda",
+    "species": "Ailuropdoa melanoleuca",
+    "habitat": "China",
+    "weightLbs": 290,
+    "length": "4.6 - 6.2 ft",
+    "diet": "herbivore",
+    "lifespan": "20 - 30 years",
+    "status": "vulnerable"
+  },
+  {
+    "name": "Saltwater Crocodile",
+    "species": "Crocodylus porosus",
+    "habitat": "Australia and Southeast Asia",
+    "weightLbs": 2500,
+    "length": "13 - 17 ft",
+    "diet": "carnivore",
+    "lifespan": "70 - 100 years",
+    "status": "least concern"
+  }
+]
